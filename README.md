@@ -1,3 +1,3 @@
 # NotePad
-NotePad is android program which is written on more basic and scratch fundamentals as sqlite,UI design,shared preference ,activity and fragments communication also content provider api
+NotePad is android program which is written on more basic and scratch fundamentals as sqlite,UI design,shared preference ,activity and fragments communication also content provider api.
 It's will be fun coding...
